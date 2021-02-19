@@ -15,8 +15,8 @@
             </div>
             <div class="row">
                 <div class="col-4">
-                    <a href="../site d'E-commerce/Red-Printed-T-Shirt.php"><img src="images/product-1.jpg"></a>
-                    <a href="../site d'E-commerce/Red-Printed-T-Shirt.php"><h4>Red Printed T-Shirt</h4></a>
+                    <a href="Red-Printed-T-Shirt.php"><img src="images/product-1.jpg"></a>
+                    <a href="Red-Printed-T-Shirt.php"><h4>Red Printed T-Shirt</h4></a>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>
