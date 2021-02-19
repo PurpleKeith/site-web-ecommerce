@@ -1,0 +1,14 @@
+liste d'erreur :
+
+invalidUsername
+invalidEmail
+passwordsdontmatch
+stmtfailed
+none
+wronglogin
+wrongpwd
+
+erreur de pwd à la connexion ressort stmt failed
+erreur entre username taken et stmt failed
+erreur création invalidEmail -> stmtfailed
+corriger le système de déconnection
